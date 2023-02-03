@@ -1,5 +1,4 @@
-# Big-Data-Battle
-Distributed Computation with MapReduce and Spark
+# Big-Data-Battle: Distributed Computation with MapReduce and Spark
 
 This project was the fifth among the 5 amazing projects of the '95-702 - Distributed Systems for Information Systems Management' course at [Carnegie Mellon University](https://www.cmu.edu/). The course was taught by 3 eminent Professors of CMU - Prof. Mike McCarthy, Prof. Joe Mertz and Prof. Marty Barrett.
 
